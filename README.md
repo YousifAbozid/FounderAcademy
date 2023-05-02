@@ -7,10 +7,10 @@
 - [Welcome to the Founder Academy](#Welcome_to_the_Founder_Academy)
   - [Welcome to the Founder Academy](#Welcome_to_the_Founder_Academy_1.1)
   - [Meet the Founders](#Meet_the_Founders)
-- [Section 2](#section-2)
-  - [Subsection 2.1](#subsection-2.1)
+- [Think](#Think)
+  - [Entrepreneurial Mindset](#Entrepreneurial_Mindset)
   - [Subsection 2.2](#subsection-2.2)
-- [Section 3](#section-3)
+- [Build](#section-3)
   - [Subsection 3.1](#subsection-3.1)
   - [Subsection 3.2](#subsection-3.2)
 
@@ -95,7 +95,11 @@ Yes, you can definitely relate to multiple founders. Each founder's story may of
 
 # Think
 
+<a name="Think"></a>
+
 ## - Entrepreneurial Mindset
+
+<a name="Entrepreneurial_Mindset"></a>
 
 [1.1 An Entrepreneurial Mindset](https://www.youtube.com/watch?v=CtCdfYPqrBc)
 
