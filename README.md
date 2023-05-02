@@ -33,6 +33,8 @@
     - [Frequently Asked Questions](#Building_Your_MVP_Frequently_Asked_Questions)
   - [Co-Founders & Teams](#Co-Founders_&_Teams)
     - [Frequently Asked Questions](#Co-Founders_&_Teams_Frequently_Asked_Questions)
+  - [MVP Deliverable](#MVP_Deliverable)
+  - [Submission: Prototype](#Submission_Prototype)
 - [Launch](#Launch)
 
 # Welcome to the Founder Academy
@@ -792,3 +794,40 @@ It is important to have open and honest communication with your co-founder about
     What if my co-founder is not pulling their weight?
 
 If your co-founder is not contributing equally to the business, it is important to address the issue as soon as possible. Have a discussion about each other's responsibilities and how you can work together to ensure everyone is doing their fair share. If the issue persists, it may be necessary to reevaluate the partnership.
+
+## - MVP Deliverable
+
+<a name="MVP_Deliverable"></a>
+
+[2.4 MVP Deliverable](https://www.youtube.com/watch?v=4ghIIMn2NrY)
+
+[![2.4 MVP Deliverable](https://img.youtube.com/vi/4ghIIMn2NrY/0.jpg)](https://www.youtube.com/watch?v=4ghIIMn2NrY)
+
+## - Submission: Prototype
+
+<a name="Submission_Prototype"></a>
+
+When you have your prototype ready, even if you’re a little embarrassed by it, please submit it on this page. This is a core requirement of graduating from the Founder Academy and moving on to the next stage. Keep in mind that your prototype or MVP should be a link to a live product or at least a demo that a user can engage with in some way. Let’s see what sort of hard things you and your team have been up to!
+
+Here are the guidelines for developing and submitting your prototype for Phase 1:
+
+- Functionality: The prototype should demonstrate basic functionality and usability of the product or service. The functionalities do not have to be fully developed nor polished.
+- Design: The prototype interface does not need to be perfectly designed at this stage, but should present a clear purpose and call to action for a potential beta user.
+- Scalability: The prototype should have the future potential to be scaled up to initial beta users or larger user base during Phase 2 (incubator) of the competition this year between May through August.
+- Innovation: The prototype should demonstrate unique features that differentiate it from existing products or services in the market.
+
+Types of products and services to consider:
+
+- Tech Product, i.e. mobile app, chrome extension, online marketplace, etc.
+- Tech Service, i.e. web development, business intelligence, cybersecurity, etc.
+- Non-Tech Product, i.e. food, fashion, wellness, etc.
+- Non-Tech Service, i.e. consulting, tutoring, marketing, cleaning services, etc.
+- Hybrid Product, i.e. IoT devices, offline + online marketplaces, meal kit delivery brand, etc
+
+Examples of prototypes that would pass Phase 1:
+
+- Landing page that indicates potential features and the problem you are solving.
+- App available for testing with initial features, or prototype using Figma or no-code platform. It should demonstrate basic functionality, even if it is not fully developed or polished.
+- Video of demonstrating initial features as well as platform front and back-end stack.
+- Initial non-tech product line for sale via social media account
+- Initial non-tech product line design mock-up ready for either manufacturing and/or crowdfunding
