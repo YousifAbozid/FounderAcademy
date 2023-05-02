@@ -15,8 +15,16 @@
   - [Template: Lean Canvas Model](#Template_Lean_Canvas_Model)
 - [Build](#Build)
   - [Conducting Market Research](#Conducting_Market_Research)
+    - [Learning about Market Research](#Conducting_Market_Research_Learning_about_Market_Research)
+    - [Common Frameworks](#Conducting_Market_Research_Common_Frameworks)
+    - [Frequently Asked Questions](#Conducting_Market_Research_Frequently_Asked_Questions)
   - [Building Your MVP](#Building_Your_MVP)
+    - [Learning about MVPs](#Building_Your_MVP_Learning_about_MVPs)
+    - [Common Frameworks](#Building_Your_MVP_Common_Frameworks)
+    - [Frequently Asked Questions](#Building_Your_MVP_Frequently_Asked_Questions)
   - [Co-Founders & Teams](#Co-Founders_&_Teams)
+    - [Frequently Asked Questions](#Co-Founders_&_Teams_Frequently_Asked_Questions)
+- [Launch](#Launch)
 
 # Welcome to the Founder Academy
 
@@ -443,6 +451,8 @@ Or download the PowerPoint file here:
 
 [2.1 Conducting Market Research](https://www.youtube.com/watch?v=LTtAkiCTmsQ)
 
+[![2.1 Conducting Market Research](https://img.youtube.com/vi/LTtAkiCTmsQ/0.jpg)](https://www.youtube.com/watch?v=LTtAkiCTmsQ)
+
 ## From the Video
 
 The video features a discussion with several founders who share their experiences and insights on conducting market research. Each founder has their unique approach and techniques to gather data and identify gaps within the market.
@@ -460,6 +470,8 @@ Finally, the last founder carried out services based on their needs as a mother 
 Overall, the video highlights the importance of market research in identifying gaps and opportunities for new businesses. The founders' experiences and insights offer valuable lessons on the various techniques and approaches to gather data and make informed decisions. The video serves as a valuable resource for entrepreneurs and business owners looking to start a new venture or expand their existing business.
 
 ## Learning about Market Research
+
+<a name="Conducting_Market_Research_Learning_about_Market_Research"></a>
 
 Market research is a crucial step in the development of any business. It allows entrepreneurs to identify gaps in the market and make informed decisions about the direction of their ventures. However, it can be challenging to know where to start when it comes to conducting market research. That's why understanding the different types of market research can help entrepreneurs determine which method they should pursue to inform the development of their minimum viable product (MVP).
 
@@ -480,6 +492,8 @@ When deciding which type of market research to pursue, entrepreneurs should cons
 Ultimately, the type of market research an entrepreneur pursues will depend on the unique needs and goals of their venture. By conducting market research, entrepreneurs can identify gaps in the market and make informed decisions about the direction of their business.
 
 ## Common Frameworks
+
+<a name="Conducting_Market_Research_Common_Frameworks"></a>
 
 Here are some examples of frameworks and tools for each type of research:
 
@@ -503,6 +517,8 @@ Here are some examples of frameworks and tools for each type of research:
 In conclusion, early-stage founders can use a variety of frameworks and tools to conduct market research and make informed decisions about their ventures. By utilizing these tools and techniques, founders can gain valuable insights into their target market and identify potential gaps and opportunities.
 
 ## Frequently Asked Questions
+
+<a name="Conducting_Market_Research_Frequently_Asked_Questions"></a>
 
     What is market research, and why is it important?
 
@@ -551,6 +567,8 @@ Best practices for conducting market research include clearly defining the resea
 
 [2.2 Building Your MVP](https://www.youtube.com/watch?v=dzwUfKuDQVs)
 
+[![2.2 Building Your MVP](https://img.youtube.com/vi/dzwUfKuDQVs/0.jpg)](https://www.youtube.com/watch?v=dzwUfKuDQVs)
+
 ## From the Video
 
 Building a minimum viable product (MVP) is a critical step in launching a successful startup. The MVP is the first version of your product that you put out to the market to test its viability. It is not the final product, but rather a starting point that you can use to gather feedback from your target audience and make necessary tweaks and adjustments.
@@ -566,6 +584,8 @@ The video also emphasizes the importance of using basic tools such as Excel and 
 Overall, the video highlights the importance of starting small and being willing to pivot and adapt as needed. By creating a minimally valuable product and getting feedback from end users, startup founders can create a product that addresses the needs of their target audience and has the potential to grow and scale. The video provides valuable insights for anyone looking to build an MVP and launch a successful startup.
 
 ## Learning about MVPs
+
+<a name="Building_Your_MVP_Learning_about_MVPs"></a>
 
 Building an MVP (Minimum Viable Product) is a critical step in launching a startup, whether it's a software or hardware-based tech business. The goal of an MVP is to create a basic version of your product that can be tested in the market to validate your idea and get feedback from potential customers. Here are some tips and tools to help you build an MVP for both software and hardware-based tech business models:
 
@@ -595,6 +615,8 @@ Tools for hardware-based tech business models:
 
 ## Common Frameworks
 
+<a name="Building_Your_MVP_Common_Frameworks"></a>
+
 There are several common frameworks and visuals that early-stage founders can use to approach building their MVP or prototype. These frameworks help founders to organize their thinking and identify the critical elements needed to create a successful MVP. Here are some examples:
 
 - **Lean Startup**: The Lean Startup framework is a popular approach to building a startup. It emphasizes the importance of building a Minimum Viable Product (MVP) as quickly as possible, testing it with customers, and iterating based on customer feedback. The framework includes a Build-Measure-Learn feedback loop that helps startups to quickly validate their assumptions and improve their product. The Lean Startup canvas is a useful tool for visualizing the framework and organizing your thinking.
@@ -606,6 +628,8 @@ There are several common frameworks and visuals that early-stage founders can us
 In conclusion, there are several common frameworks and visuals that early-stage founders can use to approach building their MVP or prototype. These frameworks help founders to organize their thinking, prioritize features, and create a product that meets the needs of their customers. Founders should choose the framework that best suits their needs and adapt it to their specific situation.
 
 ## Frequently Asked Questions
+
+<a name="Building_Your_MVP_Frequently_Asked_Questions"></a>
 
     What is an MVP?
 
@@ -700,6 +724,8 @@ Common Frameworks for Picking and Working with Co-Founders
 When selecting and working with a co-founder, using these frameworks and models can help you make more informed decisions and lay the foundation for a successful partnership.
 
 ## Frequently Asked Questions
+
+<a name="Co-Founders_&_Teams_Frequently_Asked_Questions"></a>
 
     What if I can't find a co-founder with the necessary skills?
 
