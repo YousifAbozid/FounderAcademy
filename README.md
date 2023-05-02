@@ -676,4 +676,4 @@ Yes, an MVP can be a prototype if it's the earliest version of a product that fo
 
 [2.3 Co-Founders & Teams](https://www.youtube.com/watch?v=hxgXhyUqQ5g)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hxgXhyUqQ5g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hxgXhyUqQ5g/0.jpg)](https://www.youtube.com/watch?v=hxgXhyUqQ5g)
