@@ -9,7 +9,7 @@
   - [Meet the Founders](#Meet_the_Founders)
 - [Think](#Think)
   - [Entrepreneurial Mindset](#Entrepreneurial_Mindset)
-  - [Subsection 2.2](#subsection-2.2)
+  - [Identifying the Problem](#Identifying_the_Problem)
 - [Build](#section-3)
   - [Subsection 3.1](#subsection-3.1)
   - [Subsection 3.2](#subsection-3.2)
@@ -168,3 +168,81 @@ Start by reaching out to friends, family, and existing professional connections.
     What if my existing support system doesn't understand my entrepreneurial goals or challenges?
 
 In such cases, it's essential to seek out additional support from individuals who can better understand and relate to your entrepreneurial journey. Connect with fellow entrepreneurs, mentors, and industry professionals through networking events, online forums, and entrepreneur-focused organizations to build a more aligned support system.
+
+## - Identifying the Problem
+
+<a name="Identifying_the_Problem"></a>
+
+[1.2 Identifying the Problem](https://www.youtube.com/watch?v=DhJB-0P-vag)
+
+## From the Video
+
+The video is all about early-stage entrepreneurs who are in the process of identifying the problem they want to solve. In this video, different founders share their experiences of how they came up with their business ideas, which include personal experiences and market research.
+
+The entrepreneurs highlight the importance of understanding customer needs and finding a problem that people are willing to pay for. They emphasize that a business idea should center around the customer and how they want the problem to be solved.
+
+They also discuss the importance of solving a real problem that customers want solved, rather than simply pursuing a grand idea.
+
+The businesses discussed in this video include a healthcare platform, a skin care company, a financial services provider, a taxi service, and a motherhood support network. Each founder has their own unique story and approach to identifying their business idea.
+
+To identify customer demand, the entrepreneurs use a variety of methods, such as surveys, data mining, and talking to patients directly. They also discuss the challenges they faced, such as the lack of financial accountability for small businesses in Africa and the difficulty of accessing high-quality financial services for young Africans.
+
+This video highlights the importance of identifying a real problem that customers want solved and using various methods to assess customer demand. It also emphasizes that entrepreneurs should be customer-centric and focus on understanding the needs of their target audience.
+
+To go deeper, in this section we will explore three different methods of identifying problems that founders can use to select the specific problem they want to solve through technology and entrepreneurship.
+
+- **Method 1: Personal experiences**
+  - Many founders develop their business ideas based on their personal experiences or a tragedy they have faced. For instance, one founder in the video started a health tracking business after her father died from untreated diabetes. Founders can reflect on their personal experiences and identify the problems they faced or witnessed others facing. By doing this, they can come up with unique business ideas that solve real-world problems.
+- **Method 2: Market research**
+  - Market research is another method for identifying problems that entrepreneurs can solve. By analyzing market trends and consumer behavior, founders can identify gaps in the market and areas where they can provide a solution. Founders can conduct market research by talking to potential customers, analyzing competitors' products, and identifying unmet needs in the market. This method can help founders come up with ideas that are in demand and have the potential to generate revenue.
+- **Method 3: Observing and empathizing with others**
+  - Founders can also identify problems by observing and empathizing with others. By paying attention to the challenges that people around them face, founders can come up with solutions to address those challenges. This method requires founders to be empathetic and have a deep understanding of their target audience's needs. Founders can observe people in their daily lives, conduct interviews, and listen to feedback from their target audience to identify problems that they can solve.
+
+Once founders have identified potential problems, they need to evaluate them and select the specific problem they want to solve. Founders can use the following criteria to select the right problem to solve:
+
+- The problem should have a significant impact on people's lives.
+- The problem should be something that the founder is passionate about solving.
+- The problem should have a market demand, indicating that people are willing to pay for a solution.
+
+In conclusion, identifying a problem is the first step in starting a successful business. By using personal experiences, market research, and empathy, founders can identify problems that they can solve. Once founders have identified potential problems, they need to evaluate them based on specific criteria to select the right problem to solve. With the right problem identified, founders can then move on to developing a solution that addresses the problem and meets the needs of their target audience.
+
+## Common Frameworks
+
+There are several common frameworks or visuals that early-stage founders can keep in mind related to problem identification:
+
+- **Problem-solution framework**: This framework involves identifying a problem and then developing a solution to address that problem. The solution should be tailored to the needs of the target audience and should be feasible and financially viable.
+- **Empathy map**: This visual tool helps founders identify the needs and wants of their target audience. The empathy map is divided into four quadrants: think, feel, see, and do. By filling in each quadrant with information about their target audience, founders can gain a better understanding of their needs and come up with solutions that address those needs.
+- **SWOT analysis**: A SWOT analysis is a tool that helps founders identify their business's strengths, weaknesses, opportunities, and threats. By conducting a SWOT analysis, founders can identify areas where they can capitalize on their strengths, address their weaknesses, take advantage of opportunities, and mitigate threats.
+- **Value proposition canvas**: This visual tool helps founders identify their target audience's needs and come up with a value proposition that addresses those needs. The canvas is divided into two sections: customer profile and value map. By filling in each section, founders can develop a value proposition that meets their target audience's needs.
+
+By keeping these frameworks and visuals in mind, early-stage founders can better identify problems, develop solutions, and create value for their target audience.
+
+## Frequently Asked Questions
+
+    What is problem identification, and why is it important for founders?
+
+Problem identification is the process of identifying a real-world problem that can be solved through technology and entrepreneurship. It is important for founders because identifying a problem is the first step in starting a successful business. Without identifying a problem, there is no clear direction for the business.
+
+    What are the three methods of problem identification discussed in this training?
+
+The three methods of problem identification discussed in this training are personal experiences, market research, and observing and empathizing with others.
+
+    How can founders use personal experiences to identify a problem?
+
+Founders can reflect on their personal experiences or a tragedy they have faced and identify the problems they faced or witnessed others facing. This can help them come up with unique business ideas that solve real-world problems.
+
+    What is market research, and how can it help founders identify a problem?
+
+Market research is the process of analyzing market trends and consumer behavior. By conducting market research, founders can identify gaps in the market and areas where they can provide a solution. This can help them come up with ideas that are in demand and have the potential to generate revenue.
+
+    How can founders use empathy to identify a problem?
+
+Founders can observe people in their daily lives, conduct interviews, and listen to feedback from their target audience to identify problems that they can solve. This method requires founders to be empathetic and have a deep understanding of their target audience's needs.
+
+    What criteria should founders use to select the right problem to solve?
+
+Founders should select a problem that has a significant impact on people's lives, is something they are passionate about solving, and has a market demand, indicating that people are willing to pay for a solution.
+
+    What is the next step after identifying a problem?
+
+The next step after identifying a problem is to develop a solution that addresses the problem and meets the needs of the target audience. This solution can be in the form of a product, service, or technology.
