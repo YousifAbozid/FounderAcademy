@@ -7,11 +7,20 @@
 - [Welcome to the Founder Academy](#Welcome_to_the_Founder_Academy)
   - [Welcome to the Founder Academy](#Welcome_to_the_Founder_Academy_1.1)
   - [Meet the Founders](#Meet_the_Founders)
+    - [Frequently Asked Questions](#Meet_the_Founders_Frequently_Asked_Questions)
 - [Think](#Think)
   - [Entrepreneurial Mindset](#Entrepreneurial_Mindset)
+    - [Common Frameworks](#Entrepreneurial_Mindset_Common_Frameworks)
+    - [Frequently Asked Questions](#Entrepreneurial_Mindset_Frequently_Asked_Questions)
   - [Identifying the Problem](#Identifying_the_Problem)
+    - [Common Frameworks](#Identifying_the_Problem_Common_Frameworks)
+    - [Frequently Asked Questions](#Identifying_the_Problem_Frequently_Asked_Questions)
   - [Business Models](#Business_Models)
+    - [Types of Business Models](#Business_Models_Types_of_Business_Models)
+    - [Additional Frameworks](#Business_Models_Additional_Frameworks)
+    - [Frequently Asked Questions](#Business_Models_Frequently_Asked_Questions)
   - [Business Plan Deliverable](#Business_Plan_Deliverable)
+    - [Frequently Asked Questions](#Business_Plan_Deliverable_Frequently_Asked_Questions)
   - [Template: Lean Canvas Model](#Template_Lean_Canvas_Model)
 - [Build](#Build)
   - [Conducting Market Research](#Conducting_Market_Research)
@@ -35,6 +44,8 @@
 <a name="Welcome_to_the_Founder_Academy_1.1"></a>
 
 [Welcome to Ventures Founder Academy](https://www.youtube.com/watch?v=zt-VUaArB5o)
+
+[![Welcome to Ventures Founder Academy](https://img.youtube.com/vi/zt-VUaArB5o/0.jpg)](https://www.youtube.com/watch?v=zt-VUaArB5o)
 
 The Founder Academy is the first step with ALX Ventures, which helps entrepreneurs go from idea to impact. Whether this is your first startup, or you’ve already launched many before, the insights we’ll cover in this course is aimed to help you take your game to the next level.
 
@@ -63,6 +74,8 @@ We’re glad you’ve taken the first step towards enrolling in the Founder Acad
 
 [Meet the Founders](https://www.youtube.com/watch?v=aDcwL8DbWVw)
 
+[![Meet the Founders](https://img.youtube.com/vi/aDcwL8DbWVw/0.jpg)](https://www.youtube.com/watch?v=aDcwL8DbWVw)
+
 ## From the Video
 
 Our Founder Academy features 9 inspiring founders, who will form the basis of the rest of the video course. You can find their individual founder story videos in the Bonus module at the end of the course. Here’s a summary of the founder introductions:
@@ -84,6 +97,8 @@ Think about the founder you most relate to and why.Identify specific aspects of 
 Reflect on the insights gained from this exercise and how it has helped you better understand your own journey as a founder. Consider maintaining a network of peers or mentors who can provide support and guidance as you progress in your entrepreneurial journey.
 
 ## Frequently Asked Questions
+
+<a name="Meet_the_Founders_Frequently_Asked_Questions"></a>
 
     Why is it important to relate to other founders?
 
@@ -115,26 +130,28 @@ Yes, you can definitely relate to multiple founders. Each founder's story may of
 
 [1.1 An Entrepreneurial Mindset](https://www.youtube.com/watch?v=CtCdfYPqrBc)
 
+[![1.1 An Entrepreneurial Mindset](https://img.youtube.com/vi/CtCdfYPqrBc/0.jpg)](https://www.youtube.com/watch?v=CtCdfYPqrBc)
+
 ## From the Video
 
 The video highlights interviews from the nine startup founders who share their early journey in entrepreneurship and what motivated them along the way. Each founder had unique ambitions growing up, but eventually found their passion in running their own businesses and creating ideas. They discuss the importance of resilience in overcoming challenges faced by entrepreneurs and emphasize the need to have a clear purpose, target audience, and passion for their work. Many founders attribute their drive to a desire to help people, make an impact, and find innovative solutions to everyday problems. They also emphasize the value of learning from challenges, using them as opportunities for growth and development. Reflection, accountability, and staying focused on their passions play significant roles in their success as entrepreneurs.
 
 In this learning module, you will explore the key driving factors behind your desire to become an entrepreneur and identify the support systems you have in place to help you succeed. By the end of this module, you should be able to articulate one key driving factor for your entrepreneurial journey and recognize the support systems that will aid you in overcoming challenges.
 
-### Identifying Your Key Driving Factor
+**Identifying Your Key Driving Factor**
 
 - Reflect on your motivation: To identify your key driving factor, spend some time reflecting on why you want to become an entrepreneur. Consider the personal, professional, and social aspects that contribute to your motivation.
 - Analyze your passion: Determine if your entrepreneurial drive stems from a passion for your product or service, the desire to solve a problem, or the aspiration to make a positive impact on society.
 - Assess your goals: Examine your short-term and long-term goals as an entrepreneur. Consider how your key driving factor aligns with these goals and contributes to your overall vision.
 
-### Recognizing Your Support Systems
+**Recognizing Your Support Systems**
 
 - Personal support: Identify the people in your life who support your entrepreneurial journey. This may include family members, friends, or mentors who provide emotional, financial, or professional support.
 - Professional networks: Assess your professional connections and affiliations that can offer guidance, resources, and assistance in your entrepreneurial journey. This may include industry experts, business partners, or professional associations.
 - Educational resources: Recognize the educational resources available to you that can help you develop the necessary skills and knowledge for your business. This may include online courses, workshops, books, or mentorship programs.
 - Financial support: Evaluate your financial resources and support systems. Consider the funding options available to you, such as personal savings, loans, grants, or investments from friends and family.
 
-### Articulating Your Key Driving Factor and Support Systems
+**Articulating Your Key Driving Factor and Support Systems**
 
 - Summarize your key driving factor: Develop a concise statement that encapsulates your primary motivation for becoming an entrepreneur. Be prepared to share this with others to gain valuable feedback and support.
 - Outline your support systems: Create a list of the support systems you have identified and how they contribute to your entrepreneurial journey. This will help you recognize the resources available to you and reinforce your confidence in pursuing your goals.
@@ -142,6 +159,8 @@ In this learning module, you will explore the key driving factors behind your de
 By understanding your key driving factor and support systems, you are better equipped to face the challenges of entrepreneurship and stay focused on your goals. Remember that your motivation and support systems will evolve as your business grows, so continue to reflect on and adapt to these changes to ensure long-term success.
 
 ## Common Frameworks
+
+<a name="Entrepreneurial_Mindset_Common_Frameworks"></a>
 
 As you embark on your journey, here are some proven frameworks to consider adopting or referencing:
 
@@ -156,6 +175,8 @@ As you embark on your journey, here are some proven frameworks to consider adopt
 Remember that each founder's journey is unique, and the relevance of these frameworks and visuals may vary depending on your specific goals and circumstances. However, they can serve as useful starting points for early-stage founders seeking structure and guidance in their entrepreneurial pursuits.
 
 ## Frequently Asked Questions
+
+<a name="Entrepreneurial_Mindset_Frequently_Asked_Questions"></a>
 
     Why is it important to identify my key driving factor as an entrepreneur?
 
@@ -186,6 +207,8 @@ In such cases, it's essential to seek out additional support from individuals wh
 <a name="Identifying_the_Problem"></a>
 
 [1.2 Identifying the Problem](https://www.youtube.com/watch?v=DhJB-0P-vag)
+
+[![1.2 Identifying the Problem](https://img.youtube.com/vi/DhJB-0P-vag/0.jpg)](https://www.youtube.com/watch?v=DhJB-0P-vag)
 
 ## From the Video
 
@@ -220,6 +243,8 @@ In conclusion, identifying a problem is the first step in starting a successful 
 
 ## Common Frameworks
 
+<a name="Identifying_the_Problem_Common_Frameworks"></a>
+
 There are several common frameworks or visuals that early-stage founders can keep in mind related to problem identification:
 
 - **Problem-solution framework**: This framework involves identifying a problem and then developing a solution to address that problem. The solution should be tailored to the needs of the target audience and should be feasible and financially viable.
@@ -230,6 +255,8 @@ There are several common frameworks or visuals that early-stage founders can kee
 By keeping these frameworks and visuals in mind, early-stage founders can better identify problems, develop solutions, and create value for their target audience.
 
 ## Frequently Asked Questions
+
+<a name="Identifying_the_Problem_Frequently_Asked_Questions"></a>
 
     What is problem identification, and why is it important for founders?
 
@@ -265,6 +292,8 @@ The next step after identifying a problem is to develop a solution that addresse
 
 [1.3 Business Models](https://www.youtube.com/watch?v=rTnalZL7Jpw)
 
+[![1.3 Business Models](https://img.youtube.com/vi/rTnalZL7Jpw/0.jpg)](https://www.youtube.com/watch?v=rTnalZL7Jpw)
+
 ## From the Video
 
 In this video, the founders discuss their experiences in identifying and establishing their business models. One key takeaway is the importance of customer feedback in determining a company's unique value proposition. The founders explain that listening to customer needs and using their feedback to drive product development and financial modeling is crucial for success.
@@ -276,6 +305,8 @@ Additionally, the speakers highlight the value of testing and iterating products
 Overall, this video provides valuable insights into the process of identifying and establishing a successful business model, with a strong emphasis on the importance of customer feedback and financial modeling.
 
 ## Types of Business Models
+
+<a name="Business_Models_Types_of_Business_Models"></a>
 
 But that’s not all - this learning module is designed to help you identify and articulate different types of business models, based on insights from startup founders in a video on establishing successful business models. By the end of this module, you should be able to identify which business model to pursue for your tech product or service.
 
@@ -309,6 +340,8 @@ Identifying and establishing a successful business model is crucial to the succe
 
 ## Additional Frameworks
 
+<a name="Business_Models_Additional_Frameworks"></a>
+
 Here are three additional frameworks that early-stage founders can keep in mind related to the topic of business models:
 
 - **Revenue Streams Framework**: This is a visual framework that helps founders identify and evaluate different revenue streams based on their business model. It involves categorizing revenue streams into primary, secondary, and complementary sources. Primary sources are the main sources of revenue, while secondary sources are additional sources of revenue that complement the primary sources. Complementary sources are revenue streams that do not generate significant revenue but enhance the value proposition of the product or service.
@@ -325,6 +358,8 @@ Here are three additional frameworks that early-stage founders can keep in mind 
 By using these frameworks, early-stage founders can better understand their market opportunities, evaluate different revenue streams and business model archetypes, and create a unique value proposition that differentiates their product or service from the competition.
 
 ## Frequently Asked Questions
+
+<a name="Business_Models_Frequently_Asked_Questions"></a>
 
     What is a business model?
 
@@ -356,6 +391,8 @@ Yes, it is common for startups to change their business model over time as they 
 <a name="Business_Plan_Deliverable"></a>
 
 [1.4 Business Plan Deliverable](https://www.youtube.com/watch?v=8wGZO_mk3tY)
+
+[![1.4 Business Plan Deliverable](https://img.youtube.com/vi/8wGZO_mk3tY/0.jpg)](https://www.youtube.com/watch?v=8wGZO_mk3tY)
 
 ## About the Lean Canvas Model
 
@@ -393,6 +430,8 @@ Here are some best practices to consider when filling out the Lean Canvas model:
 - Be realistic: Identify the resources you need to test your business ideas and be realistic about the time and money available.
 
 ## Frequently Asked Questions
+
+<a name="Business_Plan_Deliverable_Frequently_Asked_Questions"></a>
 
     What is the Lean Canvas model?
 
