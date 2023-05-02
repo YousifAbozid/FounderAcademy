@@ -12,6 +12,7 @@
   - [Identifying the Problem](#Identifying_the_Problem)
   - [Business Models](#Business_Models)
   - [Business Plan Deliverable](#Business_Plan_Deliverable)
+  - [Template: Lean Canvas Model](#Template_Lean_Canvas_Model)
 - [Build](#section-3)
   - [Subsection 3.1](#subsection-3.1)
   - [Subsection 3.2](#subsection-3.2)
@@ -415,3 +416,18 @@ The Lean Canvas model is designed to be flexible and adaptable, so use it as a f
     How can I be realistic about the resources I need to test my business ideas?
 
 To be realistic about the resources you need, start by identifying the minimum viable product (MVP) that you can create to test your assumptions. This approach allows you to test your ideas with minimal investment and risk, and to adjust your approach based on feedback from customers and investors.
+
+## - Template: Lean Canvas Model
+
+<a name="Template_Lean_Canvas_Model"></a>
+
+Please make a copy of our [Founder Academy Guide: Lean Canvas Model](https://docs.google.com/presentation/d/1zriqKGd9tf8_llVLzcYidSCppcqqq34Di8HPMfRwIDQ/edit#slide=id.g210ee787a09_0_340), which includes:
+
+- **Summary**: 6 best practices for using the Lean Canvas Model
+- **Guide**: provides a summary of what each section means and should include.
+- **Template**: this is the version that you will use to fill and submit as a deliverable.
+- **Example**: provides a real-world example of how the tool can be filled by an entrepreneur.
+
+Or download the PowerPoint file here:
+
+[Founder Academy Guide\_ Lean Canvas Model.pptx](./Founder%20Academy%20Guide_%20Lean%20Canvas%20Model.pptx)
