@@ -11,6 +11,7 @@
   - [Entrepreneurial Mindset](#Entrepreneurial_Mindset)
   - [Identifying the Problem](#Identifying_the_Problem)
   - [Business Models](#Business_Models)
+  - [Business Plan Deliverable](#Business_Plan_Deliverable)
 - [Build](#section-3)
   - [Subsection 3.1](#subsection-3.1)
   - [Subsection 3.2](#subsection-3.2)
@@ -339,3 +340,78 @@ Common mistakes to avoid when identifying a business model include relying too h
     Can I change my business model over time?
 
 Yes, it is common for startups to change their business model over time as they learn more about their target market and customer needs. It is important to be flexible and adapt to changing circumstances while staying true to the overall vision of the company.
+
+## - Business Plan Deliverable
+
+<a name="Business_Plan_Deliverable"></a>
+
+[1.4 Business Plan Deliverable](https://www.youtube.com/watch?v=8wGZO_mk3tY)
+
+## About the Lean Canvas Model
+
+As an early-stage entrepreneur, the Lean Canvas model can be a valuable tool for helping you to plan and develop your business idea. The model is split into 9 components. We’ve described them below, along with a practical example for each:
+
+- Problem: Describe the main pain point or challenge that the target customers are facing.
+- Customer Segments: Define the specific groups of customers that the solution will target, based on their characteristics, location, needs and behaviors.
+- Unique Value Proposition: Articulate the key benefits and advantages that the proposed solution offers to the target customers. How is it different from other solutions that are available?
+- Solution: Outline the features, functions and technologies that will solve the identified problem.
+- Channels: Identify the key ways that you will use to reach and engage your target customers, such as advertising, partnerships or social media.
+- Revenue Streams: Describe the ways in which the proposed solution will generate revenue, such as subscription fees, commission on sales, or advertising revenue.
+- Cost Structures: Outline the main expenses and investments required to develop, launch and operate the proposed solution, such as product development, marketing and staffing.
+- Key Metrics: Identify the most important indicators that will be used to tackle the progress and success of your solution, such as customer acquisition, retention or revenue growth.
+- Unfair Advantage: Describe the unique strengths that your solution has over competitors, such as intellectual property, expertise or strategic partnerships.
+
+Next, here is a real-world example of how the tool can be filled by an entrepreneur.
+
+- Problem: Lack of access to affordable and reliable transportation options in urban areas, leading to frustration and inefficiency for commuters and small business owners.
+- Customer Segments: Commuters in urban areas: People who need to travel within the city for work, school, or leisure. They are looking for reliable, affordable, and convenient transportation options. Small business owners who need to transport goods within the city: Entrepreneurs who need to move goods within the city to run their businesses. They are looking for affordable and efficient transportation options.
+- Unique Value Proposition: Our tech-enabled ride-sharing platform provides affordable and reliable transportation options for commuters and small business owners in urban areas, with flexible pricing options and a convenient mobile app.
+- Solution: A mobile app that connects drivers with passengers or businesses in need of transportation services. Flexible pricing options that make it more affordable for customers.
+- Channels: Social media advertising, Customer referral program, Taxi association partnership
+- Revenue Streams: Commission on ride fares: We will earn a commission on each ride fare paid through our platform, with rates that vary depending on the type of ride and the driver's performance. Advertising partnerships with relevant brands: We will explore partnerships with relevant brands that want to reach our target customers, such as mobile phone companies or financial institutions.
+- Cost Structures: Development and maintenance of mobile app; Marketing and advertising expenses: We will allocate funds for marketing and advertising expenses, including social media ads, referral rewards, and partnership fees. Staff salaries and benefits: We will hire a team of skilled professionals to manage our operations, customer service, and marketing activities
+- Key Metrics: Number of active users, Average ride cost and length, and Customer retention rate
+- Unfair Advantage: Strong relationships with local taxi associations, In-depth knowledge of the local market and culture
+
+Here are some best practices to consider when filling out the Lean Canvas model:
+
+- Start with a problem: The Lean Canvas is designed to help you solve a specific problem so begin by defining what need you are addressing.
+- Be specific: For your customer segments and value proposition, be clear and specific about what makes your approach unique.
+- Test your assumptions: Use the Lean Canvas as a framework for evaluating your hypotheses about your business idea and strategies.
+- Keep it simple: The Lean Canvas is a simplified version of a business plan so keep it concise to help focus on the most critical aspects.
+- Iterate and adapt: Continue to use the Lean Canvas as your business model evolves based on feedback from customers and investors.
+- Be realistic: Identify the resources you need to test your business ideas and be realistic about the time and money available.
+
+## Frequently Asked Questions
+
+    What is the Lean Canvas model?
+
+The Lean Canvas model is a visual tool that helps entrepreneurs to plan and develop their business idea by breaking it down into 9 key components. It is a simplified version of a traditional business plan that focuses on the most critical aspects of the business.
+
+    What are the 9 components of the Lean Canvas model?
+
+The 9 components of the Lean Canvas model are Problem, Customer Segments, Unique Value Proposition, Solution, Channels, Revenue Streams, Cost Structures, Key Metrics, and Unfair Advantage.
+
+    How can I use the Lean Canvas model to develop my business idea?
+
+Start by defining the problem you are trying to solve, then identify your target customer segments and the unique value proposition of your solution. Next, outline the features and functions of your solution, and identify the channels and revenue streams you will use to reach your target customers. Finally, define the cost structures, key metrics, and unfair advantage of your business.
+
+    Why is it important to start with a problem when using the Lean Canvas model?
+
+Starting with a problem helps to ensure that your business idea is grounded in a real need or pain point that customers are experiencing. This approach helps you to focus on creating a solution that is relevant and valuable to your target customers.
+
+    How can I test my assumptions using the Lean Canvas model?
+
+The Lean Canvas model can be used to evaluate your hypotheses about your business idea and strategies. By identifying your key metrics and regularly measuring your progress against them, you can test whether your assumptions are accurate and adjust your approach as needed.
+
+    How can I keep my Lean Canvas model concise and focused?
+
+To keep your Lean Canvas model concise, focus on the most critical aspects of your business idea and avoid getting bogged down in unnecessary details. Use clear and specific language to describe your customer segments and value proposition, and be realistic about the resources you have available to test your business ideas.
+
+    How can I use the Lean Canvas model to iterate and adapt my business model?
+
+The Lean Canvas model is designed to be flexible and adaptable, so use it as a framework for ongoing evaluation and adjustment as your business model evolves. Regularly review your key metrics and customer feedback to identify areas where you can make improvements or pivot your strategy if necessary.
+
+    How can I be realistic about the resources I need to test my business ideas?
+
+To be realistic about the resources you need, start by identifying the minimum viable product (MVP) that you can create to test your assumptions. This approach allows you to test your ideas with minimal investment and risk, and to adjust your approach based on feedback from customers and investors.
