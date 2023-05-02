@@ -1,10 +1,26 @@
 # FounderAcademy
 
-This repo has all the contents of the Founder Academy course made by ALX Venture.
+**This repo has all the contents of the Founder Academy course made by ALX Venture.**
+
+## Contents
+
+- [Welcome to the Founder Academy](#Welcome_to_the_Founder_Academy)
+  - [Welcome to the Founder Academy](#Welcome_to_the_Founder_Academy_1.1)
+  - [Meet the Founders](#Meet_the_Founders)
+- [Section 2](#section-2)
+  - [Subsection 2.1](#subsection-2.1)
+  - [Subsection 2.2](#subsection-2.2)
+- [Section 3](#section-3)
+  - [Subsection 3.1](#subsection-3.1)
+  - [Subsection 3.2](#subsection-3.2)
 
 # Welcome to the Founder Academy
 
+<a name="Welcome_to_the_Founder_Academy"></a>
+
 ## - Welcome to the Founder Academy
+
+<a name="Welcome_to_the_Founder_Academy_1.1"></a>
 
 [Welcome to Ventures Founder Academy](https://www.youtube.com/watch?v=zt-VUaArB5o)
 
@@ -30,6 +46,8 @@ Remember - becoming a startup founder can be one of the most exciting and reward
 We’re glad you’ve taken the first step towards enrolling in the Founder Academy, and we’ll be here with you along the way. Good luck!
 
 ## - Meet the Founders
+
+<a name="Meet_the_Founders"></a>
 
 [Meet the Founders](https://www.youtube.com/watch?v=aDcwL8DbWVw)
 
