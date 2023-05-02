@@ -13,8 +13,8 @@
   - [Business Models](#Business_Models)
   - [Business Plan Deliverable](#Business_Plan_Deliverable)
   - [Template: Lean Canvas Model](#Template_Lean_Canvas_Model)
-- [Build](#section-3)
-  - [Subsection 3.1](#subsection-3.1)
+- [Build](#Build)
+  - [Conducting Market Research](#Conducting_Market_Research)
   - [Subsection 3.2](#subsection-3.2)
 
 # Welcome to the Founder Academy
@@ -431,3 +431,115 @@ Please make a copy of our [Founder Academy Guide: Lean Canvas Model](https://doc
 Or download the PowerPoint file here:
 
 [Founder Academy Guide\_ Lean Canvas Model.pptx](./Founder%20Academy%20Guide_%20Lean%20Canvas%20Model.pptx)
+
+# Build
+
+<a name="Build"></a>
+
+## - Conducting Market Research
+
+<a name="Conducting_Market_Research"></a>
+
+[2.1 Conducting Market Research](https://www.youtube.com/watch?v=LTtAkiCTmsQ)
+
+## From the Video
+
+The video features a discussion with several founders who share their experiences and insights on conducting market research. Each founder has their unique approach and techniques to gather data and identify gaps within the market.
+
+One founder used phone calls, focus groups, and data gathering to validate the need for their services in both B2C and B2B models. This approach allowed them to gain valuable insights into the market and make data-driven decisions.
+
+Another founder intentionally avoided market research to build something unique. Instead, they conducted primary and secondary research in the sector before starting to build any solution. This allowed them to gain a deeper understanding of the industry, its challenges and opportunities, and come up with a unique solution to fill a gap in the market.
+
+A third founder conducted competitor analysis to identify gaps within the existing market and came up with a platform to fill those gaps. By analyzing the competition, this founder was able to spot potential opportunities and create a unique offering that differentiated their platform from others.
+
+The fourth founder conducted primary research through one-on-one conversations with SME owners and secondary research by reading government statistics and learning from development partners. This approach allowed them to gain a comprehensive understanding of the market, its challenges, and the needs of their potential customers.
+
+Finally, the last founder carried out services based on their needs as a mother and identified other mothers' needs through focus groups. This approach allowed them to get first-hand information from their potential customers and design solutions that catered to their needs.
+
+Overall, the video highlights the importance of market research in identifying gaps and opportunities for new businesses. The founders' experiences and insights offer valuable lessons on the various techniques and approaches to gather data and make informed decisions. The video serves as a valuable resource for entrepreneurs and business owners looking to start a new venture or expand their existing business.
+
+## Learning about Market Research
+
+Market research is a crucial step in the development of any business. It allows entrepreneurs to identify gaps in the market and make informed decisions about the direction of their ventures. However, it can be challenging to know where to start when it comes to conducting market research. That's why understanding the different types of market research can help entrepreneurs determine which method they should pursue to inform the development of their minimum viable product (MVP).
+
+The first type of market research is primary research. This involves gathering data directly from potential customers through surveys, focus groups, or one-on-one conversations. Primary research allows entrepreneurs to get first-hand information from their target market and gain a deeper understanding of their needs, preferences, and pain points.
+
+For example, if an entrepreneur is developing a new software solution for small business owners, they can conduct primary research by reaching out to small business owners in their network and conducting one-on-one conversations or surveys about their current software usage and pain points. This can help the entrepreneur identify gaps in the market and determine what features their software solution should prioritize to meet the needs of their target market.
+
+The second type of market research is secondary research. This involves gathering data from existing sources such as industry reports, government statistics, and competitor analysis. Secondary research provides entrepreneurs with valuable insights into the market, including industry trends, market size, and potential opportunities.
+
+Continuing with the previous example, an entrepreneur developing a software solution for small business owners can conduct secondary research by analyzing industry reports on software usage in small businesses, government statistics on small business growth, and competitor analysis to see what features their competitors are offering. This can help the entrepreneur identify areas where their software solution can differentiate itself and fill gaps in the market.
+
+The third type of market research is exploratory research. This involves gathering data to gain a general understanding of the market and identify potential opportunities. Exploratory research can include conducting interviews with experts in the industry or reading articles and publications related to the market.
+
+In our previous example, an entrepreneur can conduct exploratory research by interviewing experts in the small business software industry or reading articles and publications related to small business software trends. This can help the entrepreneur gain a deeper understanding of the market and identify potential opportunities to innovate and differentiate their software solution.
+
+When deciding which type of market research to pursue, entrepreneurs should consider their business goals, the stage of development of their venture, and the resources available to them. For example, if an entrepreneur is just starting and has limited resources, primary research can be a cost-effective way to gain valuable insights into the market. However, if an entrepreneur is further along in the development of their venture, secondary research can provide valuable insights into the industry and competitors.
+
+Ultimately, the type of market research an entrepreneur pursues will depend on the unique needs and goals of their venture. By conducting market research, entrepreneurs can identify gaps in the market and make informed decisions about the direction of their business.
+
+## Common Frameworks
+
+Here are some examples of frameworks and tools for each type of research:
+
+**Primary Research**
+
+- **Surveys**: Surveys are a great way for early-stage founders to gather data from potential customers. There are several online survey tools available, such as SurveyMonkey, Google Forms, and Typeform, which allow founders to create surveys that ask questions about customer needs, preferences and pain points. These surveys can be distributed to potential customers through social media, email, or other online channels.
+- **Focus Groups**: Focus groups are another effective way for early-stage founders to gain first-hand information from potential customers. By bringing together a group of people to discuss a specific topic, founders can gain insights into their target market's needs and preferences. Founders can conduct focus groups remotely or in-person, depending on their preferences and resources.
+- **One-on-one Interviews**: One-on-one interviews involve speaking directly with potential customers to gain insights into their needs and preferences. Early-stage founders can use one-on-one interviews to ask open-ended questions and get in-depth information about their target market. These interviews can be conducted remotely or in-person, depending on the founder's preferences.
+
+**Secondary Research**
+
+- **Industry Reports**: Industry reports provide valuable insights into market trends, industry growth, and potential opportunities. Early-stage founders can use industry reports to gain a general understanding of the market landscape and identify potential gaps and opportunities. Some examples of industry reports include IBISWorld, Gartner, and Forrester.
+- **Competitor Analysis**: By analyzing competitors, early-stage founders can gain insights into what features and solutions are already in the market. This can help them identify gaps in the market and determine how they can differentiate their own solution. There are several tools available for conducting competitor analysis, including SEMrush, Ahrefs, and SpyFu.
+- **Government Statistics**: Government statistics can provide valuable insights into market size, growth, and demographics. Early-stage founders can use this data to gain a better understanding of their target market and identify potential opportunities. Some examples of government statistics include data from the Bureau of Labor Statistics, the Census Bureau, and the Small Business Administration.
+
+**Exploratory Research**
+
+- **Expert Interviews**: Early-stage founders can conduct interviews with industry experts to gain a deeper understanding of the market and identify potential opportunities. These interviews can be conducted remotely or in-person, depending on the founder's preferences. Experts can include analysts, consultants, and academics working in the industry.
+- **Online Research**: By conducting research online, founders can gain insights into the latest trends and developments in the market. They can read articles and publications related to the industry to gain a general understanding of the landscape. Some examples of online research tools include Google Scholar, ResearchGate, and JSTOR.
+
+In conclusion, early-stage founders can use a variety of frameworks and tools to conduct market research and make informed decisions about their ventures. By utilizing these tools and techniques, founders can gain valuable insights into their target market and identify potential gaps and opportunities.
+
+## Frequently Asked Questions
+
+    What is market research, and why is it important?
+
+Market research is the process of gathering data about a particular market to better understand its characteristics, trends, and needs. It is an essential step in building a successful business because it helps entrepreneurs identify gaps in the market and make informed decisions about the direction of their venture.
+
+    What are the different types of market research?
+
+There are three main types of market research: primary research, secondary research, and exploratory research. Primary research involves gathering data directly from potential customers through surveys, focus groups, or one-on-one conversations. Secondary research involves gathering data from existing sources such as industry reports, government statistics, and competitor analysis. Exploratory research involves gathering data to gain a general understanding of the market and identify potential opportunities.
+
+    How do I know which type of market research to pursue?
+
+The type of market research an entrepreneur pursues will depend on the unique needs and goals of their venture. Factors to consider when deciding which type of research to pursue include business goals, the stage of development of the venture, and the resources available.
+
+    What are some tools and frameworks for conducting market research?
+
+There are several frameworks and tools that early-stage founders can use to help them gather data and make informed decisions about their venture. For primary research, examples include surveys, focus groups, and one-on-one interviews. For secondary research, examples include industry reports, competitor analysis, and government statistics. For exploratory research, examples include expert interviews and online research tools.
+
+    How can I conduct market research on a budget?
+
+Entrepreneurs can conduct market research on a budget by utilizing free or low-cost tools and techniques. For example, they can conduct primary research by reaching out to potential customers in their network, using online survey tools, or conducting focus groups remotely. For secondary research, they can access free reports and statistics from government websites and other sources.
+
+    How can market research help me differentiate my business?
+
+By conducting market research, entrepreneurs can identify gaps in the market and determine how to differentiate their solution from competitors. For example, by analyzing competitor solutions, entrepreneurs can identify areas where their solution can differentiate itself and fill gaps in the market.
+
+    How can market research help me better understand my target market?
+
+Market research can help entrepreneurs gain a better understanding of their target market by providing insights into their needs, preferences, and pain points. By conducting primary research, entrepreneurs can get first-hand information from potential customers, while secondary research can provide valuable insights into industry trends and demographics.
+
+    What are some common mistakes to avoid when conducting market
+    research?
+
+Common mistakes to avoid when conducting market research include not understanding the unique needs and preferences of the target market, not using a diverse sample of participants, and not considering the limitations of the research methods used. It is essential to be aware of these potential pitfalls and take steps to mitigate them when conducting market research.
+
+    How can I use market research to inform my business decisions?
+
+Entrepreneurs can use market research to inform their business decisions by using the insights gained from the research to make data-driven decisions about their venture. For example, they can use the data to determine which features to prioritize in their minimum viable product (MVP) or which marketing channels to focus on to reach their target market.
+
+    What are some best practices for conducting market research?
+
+Best practices for conducting market research include clearly defining the research objectives, using a diverse sample of participants, using a combination of research methods, ensuring the data collected is reliable and valid, and using the insights gained from the research to inform business decisions.
