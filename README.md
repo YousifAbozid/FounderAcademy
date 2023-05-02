@@ -16,6 +16,7 @@
 - [Build](#Build)
   - [Conducting Market Research](#Conducting_Market_Research)
   - [Building Your MVP](#Building_Your_MVP)
+  - [Co-Founders & Teams](#Co-Founders_&_Teams)
 
 # Welcome to the Founder Academy
 
@@ -676,4 +677,53 @@ Yes, an MVP can be a prototype if it's the earliest version of a product that fo
 
 [2.3 Co-Founders & Teams](https://www.youtube.com/watch?v=hxgXhyUqQ5g)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hxgXhyUqQ5g/0.jpg)](https://www.youtube.com/watch?v=hxgXhyUqQ5g)
+[![2.3 Co-Founders & Teams](https://img.youtube.com/vi/hxgXhyUqQ5g/0.jpg)](https://www.youtube.com/watch?v=hxgXhyUqQ5g)
+
+## From the Video
+
+The importance of having the right co-founders cannot be overstated when it comes to the success of a business. The process of finding the right co-founder should not be rushed, and it is crucial to take the time to identify the necessary skill sets and work style compatibility that align with the company's vision. Rushing the process can lead to a mismatched team that can be detrimental to the project.
+
+The speaker in the video suggests that working with potential co-founders first is a great way to evaluate their conflict resolution skills and work style before assigning them a leadership position. This way, it is possible to get a sense of how they handle team building activities, conflicts, and other challenges that may arise in the course of the business. It is also essential to find co-founders who share the same vision and complement each other's skills. This alignment is crucial to avoid confusion, loss of interest, and disengagement.
+
+Identifying the necessary skill sets is another crucial aspect of finding the right co-founders. Companies should recruit talented individuals who can complement the existing team and help to achieve the company's goals. The speaker advises that aggressively recruiting smart and talented individuals who are engaged in other high-paying jobs is a great way to build a strong team. It is important to sell them the dream of joining a shared opportunity that will have a higher payoff, either emotionally, financially or in terms of working on something enjoyable.
+
+In conclusion, finding the right co-founders is critical for the success of any business. The process requires a careful evaluation of potential co-founder's compatibility, identifying necessary skill sets, and complementing existing ones. A strong team with complementary skills and shared vision will create a successful and long-lasting partnership that fosters growth and success. Taking time to find the right co-founders is a worthwhile investment in the future of any business.
+
+Common Frameworks for Picking and Working with Co-Founders
+
+- **SWOT Analysis**: SWOT (Strengths, Weaknesses, Opportunities, and Threats) analysis is a widely used strategic planning tool that can help you assess the compatibility of potential co-founders. By analyzing your strengths and weaknesses alongside those of your prospective co-founder, you can identify areas of complementarity and potential challenges in the partnership.
+- **Skill Matrix**: A skill matrix is a visual tool that helps map the skills and expertise of potential co-founders. By creating a matrix that lists essential skills for your startup and assessing each candidate's proficiency in those areas, you can identify co-founders who can fill gaps in your skill set and contribute valuable knowledge to the team.
+- **The Founder's Dilemma Framework**: Developed by Noam Wasserman, this framework focuses on the trade-offs founders face when choosing co-founders, such as control versus growth, and wealth versus control. This model encourages founders to prioritize long-term success over short-term gains, guiding them in making more informed decisions when selecting and working with co-founders.
+- **The Trust Equation**: The Trust Equation is a model developed by The Trusted Advisor Associates, emphasizing the importance of trust in professional relationships. The equation (Trustworthiness = (Credibility + Reliability + Intimacy) / Self-Orientation) can help assess potential co-founders' trustworthiness by evaluating their credibility, reliability, intimacy, and self-orientation. High trust levels between co-founders are essential for effective collaboration.
+- **The Five Dysfunctions of a Team Model**: Developed by Patrick Lencioni, this framework identifies five common dysfunctions that can hinder team performance: absence of trust, fear of conflict, lack of commitment, avoidance of accountability, and inattention to results. By understanding and addressing these potential dysfunctions, co-founders can create a stronger and more productive working relationship.
+
+When selecting and working with a co-founder, using these frameworks and models can help you make more informed decisions and lay the foundation for a successful partnership.
+
+## Frequently Asked Questions
+
+    What if I can't find a co-founder with the necessary skills?
+
+If you are having difficulty finding a co-founder with the necessary skills, you may need to broaden your search. Consider attending networking events, joining professional organizations, or even posting job listings to find the right candidate.
+
+    How do I know if a potential co-founder is a good fit for my
+    business?
+
+It is important to take the time to get to know a potential co-founder before bringing them on board. Work on a small project together first to get a sense of their work style, conflict resolution skills, and overall compatibility with you and your team.
+
+    What if my co-founder and I disagree on the direction of the
+    business?
+
+Disagreements are a natural part of any partnership, but it is important to have a plan in place for resolving conflicts. Consider creating a written agreement that outlines how disagreements will be handled and what steps will be taken to resolve them.
+
+    How can I make sure my co-founder is committed to the long-term
+    success of the business?
+
+Make sure you have a shared vision for the business and that your co-founder understands the goals and objectives. Regularly check in with your co-founder to make sure they are still committed to the project, and address any concerns or issues that arise in a timely manner.
+
+    What if my co-founder and I have different work styles?
+
+It is important to have open and honest communication with your co-founder about your work styles and to find a way to work together that is mutually beneficial. Consider dividing tasks based on each other's strengths or finding a compromise that works for both parties.
+
+    What if my co-founder is not pulling their weight?
+
+If your co-founder is not contributing equally to the business, it is important to address the issue as soon as possible. Have a discussion about each other's responsibilities and how you can work together to ensure everyone is doing their fair share. If the issue persists, it may be necessary to reevaluate the partnership.
