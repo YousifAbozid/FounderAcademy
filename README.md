@@ -43,6 +43,9 @@
     - [Frequently Asked Questions](#Landing_Your_First_Customers_Frequently_Asked_Questions)
   - [Pitching to Investors](#Pitching_to_Investors)
     - [Frequently Asked Questions](#Pitching_to_Investors_Frequently_Asked_Questions)
+  - [Pitch Deck & Video Deliverables](#Pitch_Deck_&_Video_Deliverables)
+  - [Template: Pitch Deck](#Template_Pitch_Deck)
+  - [Deliverable: Video](#Deliverable_Video)
 
 # Welcome to the Founder Academy
 
@@ -998,3 +1001,31 @@ Investors are not just there for the money; they are also there for the support 
     What should founders focus on before pitching to investors?
 
 Before pitching to investors, founders should focus on building a solid product and securing initial revenue. They should also understand what differentiates their project from others and be able to communicate their value proposition and differentiators concisely and easily. Finally, founders should practice pitching and not worry about rejection, using it as an opportunity to improve their pitch.
+
+## - Pitch Deck & Video Deliverables
+
+<a name="Pitch_Deck_&_Video_Deliverables"></a>
+
+[3.4 Pitch Deck & Video Deliverables](https://www.youtube.com/watch?v=v-1mH07R67g)
+
+[![3.4 Pitch Deck & Video Deliverables](https://img.youtube.com/vi/v-1mH07R67g/0.jpg)](https://www.youtube.com/watch?v=v-1mH07R67g)
+
+## - Template: Pitch Deck
+
+<a name="Template_Pitch_Deck"></a>
+
+Your pitch deck should include slides such as outlining the Problem you're trying to solve, the Solution you have begun to develop, the Technologies you’re leveraging, a basic business and Financial Model, and about you and your Team.
+
+We suggest you read and make a copy of the following guide, template and example [here](https://docs.google.com/presentation/d/1EIFW4FQp7q853BGoagiDEctQanRepgpmVesaErUdC30/edit#slide=id.g210ee787a09_0_340). by clicking File > Make a Copy > Entire Presentation.
+
+You can also download the same here:
+
+[Founder Academy Guide\_ Pitch Deck.pptx](./Founder%20Academy%20Guide_%20Pitch%20Deck.pptx)
+
+## - Deliverable: Video
+
+<a name="Deliverable_Video"></a>
+
+You can use the video submission as you see best fit to showcase how you and your co-founders are leveraging technology with your prototype to do hard things. This could potentially include a run-through of your pitch, a product demo and/or user stories.
+
+Remember, you’ll be able to continue to work on these as we move forward to the next stage, so we’re not looking for perfection quite yet. Once you’ve submitted the pitch deck and video - assuming you’ve already also submitted your Lean Canvas Model and prototype, your submissions will be reviewed to confirm whether you’re ready to graduate. We can’t wait to see what you’ve put together! And don’t forget to tap into the power of peer support in helping you put together your first round of submissions.
