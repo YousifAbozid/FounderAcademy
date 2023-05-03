@@ -41,6 +41,8 @@
     - [Frequently Asked Questions](#Launching_Frequently_Asked_Questions)
   - [Landing Your First Customers](#Landing_Your_First_Customers)
     - [Frequently Asked Questions](#Landing_Your_First_Customers_Frequently_Asked_Questions)
+  - [Pitching to Investors](#Pitching_to_Investors)
+    - [Frequently Asked Questions](#Pitching_to_Investors_Frequently_Asked_Questions)
 
 # Welcome to the Founder Academy
 
@@ -952,3 +954,47 @@ Effective pitching and selling of products are essential for acquiring the first
     How can I encourage my early adopters to refer their friends and family to my business?
 
 Early adopters can play a crucial role in promoting the product to their friends and family. By delivering value to early adopters and listening to their feedback, entrepreneurs can encourage them to refer their friends and family to the business. Entrepreneurs should also focus on building a product that meets customer needs and preferences, which can help to expand the customer base.
+
+## - Pitching to Investors
+
+<a name="Pitching_to_Investors"></a>
+
+[3.3 Pitching to Investors](https://www.youtube.com/watch?v=4GNej9jzXBs)
+
+[![3.3 Pitching to Investors](https://img.youtube.com/vi/4GNej9jzXBs/0.jpg)](https://www.youtube.com/watch?v=4GNej9jzXBs)
+
+## From the Video
+
+The video features several founders, each providing valuable insights into the art of pitching to investors. The founders emphasize the importance of building a product and securing initial traction before approaching investors. A solid financial model is crucial when talking to investors, and showing real numbers and projected figures based on current metrics can positively influence the business.
+
+The founders also stress the need to understand what differentiates a project from others. They explain that investors receive numerous pitches that are similar, but only a few have unique value propositions and differentiators that stand out. Therefore, having a unique value proposition and differentiators that make a project stand out from the rest is vital.
+
+Building confidence is another critical aspect of pitching to investors. The founders advise founders to be authentic and truthful in their pitch. Being able to communicate ideas concisely and easily can increase confidence. The founders encourage founders to practice pitching and not worry about rejection, as it is not necessarily a definitive answer. Rather than being discouraged, founders should use rejection as an opportunity to improve their pitch.
+
+Finally, the founders emphasize the importance of building relationships with investors. Investors are not just there for the money; they are also there for the support network and professional mentorship that founders need to develop their projects. Therefore, founders need to vet VCs before pitching and ensure that they can provide smart money, which means they will be involved in the founder's journey post-investment. Building relationships with investors involves showing their personality and passion for their work.
+
+In conclusion, the founders provide a comprehensive guide for founders who want to pitch their ideas to investors successfully. By following these tips, founders can increase their chances of success and build long-lasting relationships with investors. Ultimately, it is important for founders to remember that rejection is not necessarily a definitive answer and to keep practicing and improving their pitch until they achieve their goals.
+
+## Frequently Asked Questions
+
+<a name="Pitching_to_Investors_Frequently_Asked_Questions"></a>
+
+    When is the best time to approach investors?
+
+The best time to approach investors is when you have already secured initial traction by building a solid product and securing initial revenue. Investors prefer to see real numbers and projected figures based on current metrics that can positively influence the business.
+
+    What should you focus on when pitching to investors?
+
+When pitching to investors, it is important to understand what differentiates your project from others. Investors receive numerous pitches that are similar, so only a few have unique value propositions and differentiators that stand out. Having a unique value proposition and differentiators that make your project stand out from the rest is vital.
+
+    How can you build confidence when pitching to investors?
+
+Being authentic and truthful in your pitch can increase confidence. Being able to communicate ideas concisely and easily is also beneficial. Practicing pitching and not worrying about rejection is important, as it is not necessarily a definitive answer. Rather than being discouraged, use rejection as an opportunity to improve your pitch.
+
+    Why is building relationships with investors important?
+
+Investors are not just there for the money; they are also there for the support network and professional mentorship that founders need to develop their projects. Therefore, it is important to vet VCs before pitching and ensure that they can provide smart money, which means they will be involved in the founder's journey post-investment. Building relationships with investors involves showing their personality and passion for their work.
+
+    What should founders focus on before pitching to investors?
+
+Before pitching to investors, founders should focus on building a solid product and securing initial revenue. They should also understand what differentiates their project from others and be able to communicate their value proposition and differentiators concisely and easily. Finally, founders should practice pitching and not worry about rejection, using it as an opportunity to improve their pitch.
