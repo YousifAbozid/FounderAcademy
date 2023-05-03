@@ -46,6 +46,7 @@
   - [Pitch Deck & Video Deliverables](#Pitch_Deck_&_Video_Deliverables)
   - [Template: Pitch Deck](#Template_Pitch_Deck)
   - [Deliverable: Video](#Deliverable_Video)
+- [Bonus: Founder Stories](#Founder_Stories)
 
 # Welcome to the Founder Academy
 
@@ -1029,3 +1030,65 @@ You can also download the same here:
 You can use the video submission as you see best fit to showcase how you and your co-founders are leveraging technology with your prototype to do hard things. This could potentially include a run-through of your pitch, a product demo and/or user stories.
 
 Remember, you’ll be able to continue to work on these as we move forward to the next stage, so we’re not looking for perfection quite yet. Once you’ve submitted the pitch deck and video - assuming you’ve already also submitted your Lean Canvas Model and prototype, your submissions will be reviewed to confirm whether you’re ready to graduate. We can’t wait to see what you’ve put together! And don’t forget to tap into the power of peer support in helping you put together your first round of submissions.
+
+# Bonus: Founder Stories
+
+<a name="Founder_Stories"></a>
+
+## Founder Story: Joseph Rutakangwa (Rwazi)
+
+[Joseph Rutakangwa | Co-Founder & CEO | Rwazi | Follow Your Dreams](https://www.youtube.com/watch?v=hiR5juit18U)
+
+[![Joseph Rutakangwa | Co-Founder & CEO | Rwazi | Follow Your Dreams](https://img.youtube.com/vi/hiR5juit18U/0.jpg)](https://www.youtube.com/watch?v=hiR5juit18U)
+
+## Founder Story: Ifeoluwa Dare-Johnson (Healthtracka)
+
+[Ifeoluwa Dare-Johnson | Founder & CEO | Healthtracka | Believe In Yourself](https://www.youtube.com/watch?v=X0FlECVc8LA)
+
+[![Ifeoluwa Dare-Johnson | Founder & CEO | Healthtracka | Believe In Yourself](https://img.youtube.com/vi/X0FlECVc8LA/0.jpg)](https://www.youtube.com/watch?v=X0FlECVc8LA)
+
+## Founder Story: Crepin Kayisire (KAYKO)
+
+[Crepin Kayisire | Founder & CEO | KAYKO | Know Your Vision](https://www.youtube.com/watch?v=oKIRGOQtSww)
+
+[![Crepin Kayisire | Founder & CEO | KAYKO | Know Your Vision](https://img.youtube.com/vi/oKIRGOQtSww/0.jpg)](https://www.youtube.com/watch?v=oKIRGOQtSww)
+
+## Founder Story: Kiiru Muhoya (Fingo Africa)
+
+[Kiiru Muhoya | Co-Founder & CEO | Fingo Africa | Remember The Mission](https://www.youtube.com/watch?v=HXkHScRpYH0)
+
+[![Kiiru Muhoya | Co-Founder & CEO | Fingo Africa | Remember The Mission](https://img.youtube.com/vi/HXkHScRpYH0/0.jpg)](https://www.youtube.com/watch?v=HXkHScRpYH0)
+
+## Founder Story: Kidist Tesfaye (YeneHealth)
+
+[Kidist Tesfaye | Founder & CEO | YeneHealth | Solve Big Problems](https://www.youtube.com/watch?v=GOrCpf1OwQk)
+
+[![Kidist Tesfaye | Founder & CEO | YeneHealth | Solve Big Problems](https://img.youtube.com/vi/GOrCpf1OwQk/0.jpg)](https://www.youtube.com/watch?v=GOrCpf1OwQk)
+
+## Founder Story: Caleb Ndunda (Moto)
+
+[Caleb Ndunda | Co-Founder & CTO | Moto | Work Towards Your Passion](https://www.youtube.com/watch?v=OexNtcUWx44)
+
+[![Caleb Ndunda | Co-Founder & CTO | Moto | Work Towards Your Passion](https://img.youtube.com/vi/OexNtcUWx44/0.jpg)](https://www.youtube.com/watch?v=OexNtcUWx44)
+
+## Founder Story: Violet Amoabeng (Skin Gourmet)
+
+[Violet Amoabeng | Founder & CEO | Skin Gourmet | Growth Through Hardship](https://www.youtube.com/watch?v=DoXnRNhlNms)
+
+[![Violet Amoabeng | Founder & CEO | Skin Gourmet | Growth Through Hardship](https://img.youtube.com/vi/DoXnRNhlNms/0.jpg)](https://www.youtube.com/watch?v=DoXnRNhlNms)
+
+## Founder Story: Dr. Ehoneah Obed (Ngoane)
+
+[Dr. Ehoneah Obed | Founder | Ngoane | Embrace Your Journey](https://www.youtube.com/watch?v=V7WhnMrKCxE)
+
+[![Dr. Ehoneah Obed | Founder | Ngoane | Embrace Your Journey](https://img.youtube.com/vi/V7WhnMrKCxE/0.jpg)](https://www.youtube.com/watch?v=V7WhnMrKCxE)
+
+## Founder Story: Nadia Gamal El Din (Rahet Bally Co.)
+
+[Nadia Gamal El Din | Founder & CEO | Rahet Bally Co. | Nothing Is Impossible](https://www.youtube.com/watch?v=Wyw0LXDF5_w)
+
+[![Nadia Gamal El Din | Founder & CEO | Rahet Bally Co. | Nothing Is Impossible](https://img.youtube.com/vi/Wyw0LXDF5_w/0.jpg)](https://www.youtube.com/watch?v=Wyw0LXDF5_w)
+
+# Congratulations!
+
+**If you reached so far, you’ve done it! You're amazing! and now you have what you need to get started, and be that entrepreneur you want to be and make your dreams come true.**
